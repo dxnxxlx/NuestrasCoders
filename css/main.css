@@ -1,0 +1,46 @@
+body{
+	margin-top: 15px;
+	margin-left: 30px;
+	padding: 0;
+
+	padding: 50px;
+}
+
+.titulo{
+	font-size: 25px;
+	  
+}
+
+.linea{
+	border: 1.5px solid black;
+	width: 70px;
+	margin-bottom: 20px;
+}
+
+.caja{
+	margin-left: 8px;
+}
+
+
+
+.coder{
+	display: inline-block;
+	margin: 10px;
+	position: relative;
+	padding: 0;
+	
+}
+
+.nombre{
+	color: white;
+	position: absolute;
+	right: 7px;
+	bottom: -5px;
+	font-size: 14px
+	
+
+}
+
+
+z-index: 100;	
+position: relative;
